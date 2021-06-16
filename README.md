@@ -1,2 +1,2 @@
 # LJRP-Leak
-Sebuah launcher LJRP yang bisa dipake dengan cheat
+Launcher LJRP leaked source code, di publikasi atas izin dari yang bersangkutan.
