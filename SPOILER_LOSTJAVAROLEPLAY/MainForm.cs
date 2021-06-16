@@ -47,7 +47,7 @@ namespace SPOILER_LOSTJAVAROLEPLAY
 			
 			WebClient webClient = new WebClient();
 			
-			tmp = webClient.DownloadString("https://raw.githubusercontent.com/Kirima2nd/LJRP-Leak/main/info/data.txt?token=ATPKASL2MHHOL3ACZC6VUHDAO4SW2");
+			tmp = webClient.DownloadString("https://raw.githubusercontent.com/Kirima2nd/LJRP-Leak/main/info/data.txt");
 			
 			if (tmp == null) {
 				MessageBox.Show("Data tidak ada, entah di patch atau emang ga update lagi", "Lost Java Roleplay", MessageBoxButtons.OK);
